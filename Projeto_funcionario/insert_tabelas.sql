@@ -20,4 +20,5 @@ insert into funcionario values(sq_matricula.nextval,'GENIERE BATISTA DE OLIVEIRA
 insert into funcionario values(sq_matricula.nextval,'EUNICE VIEIRA DE OLIVEIRA','F','ANALISTA DE SISTEMA',2293,71,2);
 insert into funcionario values(sq_matricula.nextval,'MARIA ELISABETE LIMA SILVA','F','TESTER',3500,2);
 insert into funcionario values(sq_matricula.nextval,'CLAUDIA TANIA GOIS DE OLIVEIRA SALDANHA','F','AUX. CONTABILIDADE',600,6);
+insert into funcionario values (sq_matricula.nextval,'MARIA JULIA AVELINO DOS SANTOS','F','TECH RECRUITER',4500,2);
 commit;
