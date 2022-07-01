@@ -73,7 +73,8 @@ select d.descricao,
 --Quantos funcionarios existem com a inicial do seu nome?
 select count(f.matricula) from funcionario f where f.nome like 'I%';
 
-
+--Liste os 10 maiores salarios.
+--select top 5, max(f.salario)from funcionario f group by f.salario;
 
 --Qual departamento tem o maior salario?
 select f.id_depart,
